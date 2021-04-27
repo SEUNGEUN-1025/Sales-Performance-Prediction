@@ -2,7 +2,7 @@
 
 * 대회: [2020 빅콘테스트](https://www.bigcontest.or.kr/index.php)
 * 활동기간: 20/07/20 ~ 20/09/28
-* 자세한 내용은 [보고서](https://github.com/SEUNGEUN-1025/Sales-Performance-Prediction/blob/8e24e9cad1fed775e9a8573b6a2af84467a9c6b0/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EC%B1%94%ED%94%BC%EC%96%B8%EB%A6%AC%EA%B7%B8_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_B526.pdf) 를 확인해주세요.
+* 자세한 내용은 [보고서](https://github.com/SEUNGEUN-1025/Sales-Performance-Prediction/blob/063c766c34db6ae10d2b7b24c95b2637f3f75f35/%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5_B526.pdf) 를 확인해주세요.
 
 ## ✔️ 분석 문제
 - NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출
